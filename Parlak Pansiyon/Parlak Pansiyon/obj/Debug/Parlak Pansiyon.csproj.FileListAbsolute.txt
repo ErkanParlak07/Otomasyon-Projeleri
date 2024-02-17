@@ -1,0 +1,24 @@
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\bin\Debug\Parlak Pansiyon.exe.config
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\bin\Debug\Parlak Pansiyon.exe
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\bin\Debug\Parlak Pansiyon.pdb
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak Pansiyon.csprojResolveAssemblyReference.cache
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.Properties.Resources.resources
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak Pansiyon.csproj.GenerateResource.Cache
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak Pansiyon.exe
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak Pansiyon.pdb
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmYeniMusteri.resources
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmAdminGiris.resources
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmAnaForm.resources
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmOdalar.resources
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmMusteriler.resources
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmGelirGider.resources
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmStoklar.resources
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\bin\Debug\Interop.WMPLib.dll
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Interop.WMPLib.dll
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak Pansiyon.csproj.ResolveComReference.cache
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmRadyoDinle.resources
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmGazete.resources
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmSifreGuncelle.resources
+C:\Users\Excalibur\OneDrive\Belgeler\Visual Studio 2015\Projects\Parlak Pansiyon\Parlak Pansiyon\obj\Debug\Parlak_Pansiyon.FrmMusteriMesaj.resources
