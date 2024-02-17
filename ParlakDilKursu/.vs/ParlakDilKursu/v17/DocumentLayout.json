@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|c:\\users\\excalibur\\onedrive\\belgeler\\visual studio 2015\\projects\\parlakdilkursu\\parlakdilkursu\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\parlakdilkursu\\ogrenciyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\ogrenciyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\parlakdilkursu\\puanyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\puanyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\parlakdilkursu\\kursy\u00F6netimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\kursy\u00F6netimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\parlakdilkursu\\kay\u0131ty\u00F6netim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\kay\u0131ty\u00F6netim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\parlakdilkursu\\puany\u00F6netimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\puany\u00F6netimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\parlakdilkursu\\ogrenciyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\ogrenciyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\parlakdilkursu\\yenikurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\yenikurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\parlakdilkursu\\yenipuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\yenipuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\parlakdilkursu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\parlakdilkursu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A345CCC3-8442-43BE-9330-6A8C589A8295}|ParlakDilKursu\\ParlakDilKursu.csproj|solutionrelative:parlakdilkursu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgrenciYazdir.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\OgrenciYazdir.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\OgrenciYazdir.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\OgrenciYazdir.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ParlakDilKursu\\OgrenciYazdir.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:18:40.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OgrenciYonetimi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\OgrenciYonetimi.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\OgrenciYonetimi.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\OgrenciYonetimi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ParlakDilKursu\\OgrenciYonetimi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:12:07.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kay\u0131tY\u00F6netim.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\Kay\u0131tY\u00F6netim.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\Kay\u0131tY\u00F6netim.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\Kay\u0131tY\u00F6netim.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ParlakDilKursu\\Kay\u0131tY\u00F6netim.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:59:56.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KursY\u00F6netimi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\KursY\u00F6netimi.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\KursY\u00F6netimi.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\KursY\u00F6netimi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ParlakDilKursu\\KursY\u00F6netimi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:37:26.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\Kayit.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\Kayit.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\Kayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ParlakDilKursu\\Kayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T16:50:01.181Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PuanYazdir.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\PuanYazdir.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\PuanYazdir.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\PuanYazdir.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ParlakDilKursu\\PuanYazdir.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T18:05:36.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PuanY\u00F6netimi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\PuanY\u00F6netimi.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\PuanY\u00F6netimi.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\PuanY\u00F6netimi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ParlakDilKursu\\PuanY\u00F6netimi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:52:53.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YeniKurs.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\YeniKurs.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\YeniKurs.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\YeniKurs.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ParlakDilKursu\\YeniKurs.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:29:36.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YeniPuan.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\YeniPuan.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\YeniPuan.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\YeniPuan.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ParlakDilKursu\\YeniPuan.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:46:19.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\AnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ParlakDilKursu\\AnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T16:27:15.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "ParlakDilKursu\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\OneDrive\\Belgeler\\Visual Studio 2015\\Projects\\ParlakDilKursu\\ParlakDilKursu\\AnaSayfa.cs",
+              "RelativeToolTip": "ParlakDilKursu\\AnaSayfa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T16:27:48.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
